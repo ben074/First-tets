@@ -1,3 +1,3 @@
 # codex
 
-The BGP problems for robotics
+The BGP problems for swarm robotics.
